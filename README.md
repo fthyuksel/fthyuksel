@@ -2,10 +2,6 @@
 
 ###
 
-<div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=fthyuksel&theme=vue-dark&hide_border=true" height="150" alt="languages graph"  />
-</div>
-
 <img align="right" height="150" src="https://media4.giphy.com/media/Ws6T5PN7wHv3cY8xy8/giphy.gif?cid=ecf05e47cl1dxsxe7ucm8jgp7knuirywj39wtv435qju5xw0&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
 ###
